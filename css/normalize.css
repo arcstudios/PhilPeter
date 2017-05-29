@@ -1,0 +1,23 @@
+.row{
+  margin: 0 !important;
+}
+.ul{
+  padding-left: 0 !important;
+}
+
+.navbar-default{
+  border-radius: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 1em !important;
+  padding-bottom: 1em !important;
+  background-color: #fff !important;
+}
+
+a:hover{
+  cursor: pointer;
+}
+
+article{
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
+}
